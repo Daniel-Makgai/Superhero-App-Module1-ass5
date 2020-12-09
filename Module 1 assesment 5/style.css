@@ -1,0 +1,83 @@
+
+.gallery img
+{
+    width: 100%;
+    
+}
+.gallery a:hover
+{
+    padding: 40px;
+    
+}
+
+.menu{
+      width:100%;
+      height:40px;
+    
+     
+      padding-top: 12px;
+      position: fixed;
+          
+}
+
+#menu a{
+      color:#ffffff;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+.menu img:hover{
+   width: 45px;
+    height: auto;
+ 
+}
+
+
+#contacts
+{
+    background-image: url('images/at-icon.jpg');
+    background-repeat: no-repeat;
+}
+
+h2
+{
+    text-align: center;
+    font-family:Comic Sans MS, cursive;
+    font-weight: 800;
+    font-size: 28px;
+    background-color: aliceblue;
+    padding-bottom: 20px;
+    
+}
+
+table
+{
+    width: 50%;
+}
+
+table.power
+{
+    color: red;
+}
+
+tr:nth-child(odd)
+    {
+       background-color:deepskyblue;
+    }
+h4
+{
+    font-family: Brush Script MT,cursive;
+    font-size: 30px;
+}
+
+#footer{
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: black;
+}
